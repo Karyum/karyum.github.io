@@ -1,0 +1,36 @@
+.blog-post {
+  color: red;
+  font-size: 20px;
+  width: 60vw;
+  margin-left: 20vw;
+  margin-bottom:80px;
+  border: 2px solid blue;
+  padding: 5px
+  text-align:center;
+}
+
+.body {
+  background-color:  #00ccff;
+}
+
+.post {
+  color: red;
+  font-size: 25px;
+  text-align: center;
+  padding: 150px;
+}
+p{
+  border: 5px solid blue;
+  padding: 5px
+
+}
+
+.head1 {
+  font-family: 'merriweather';
+  font-size: 60px;
+  position: fixed;
+  width: 100%; top: 0; height: 70px; background: white; color: black;
+  margin: 0;
+  /*margin-left: 500px*/
+  text-align: center;
+}
