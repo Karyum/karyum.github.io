@@ -50,13 +50,13 @@ table {
 /* CSS reset ends here */
 
 img {
-	height: 870px;
+	height: 750px;
 	width: 100%;
 	transition: ease-in;
 }
 
 .web-title {
-	font-size: 32px;
+	font-size: 25px;
 	position: absolute;
 	left: 0px;
 	top: 4%;
@@ -70,12 +70,13 @@ img {
 .about-me-info {
 	width: 100%;
 	margin-bottom: 12px;
-	.about-me-para {
-	margin-top: 12px;
 }
 
+.about-me-para {
+	margin-top: 12px;
 	font-size: 24px;
 }
+
 
 .wrapper {
 	float: right;
@@ -102,5 +103,5 @@ button {
   position: relative;
   -webkit-border-radius: 4px;
   border-radius: 4px;
-  font-size: 24px;
+  font-size: 18px;
 }
