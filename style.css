@@ -56,41 +56,41 @@ img {
 }
 
 .web-title {
-	font-size: 2rem;
+	font-size: 2em;
 	position: absolute;
-	left: 0rem;
+	left: 0em;
 	top: 4%;
-	margin-top: 1rem;
+	margin-top: 1em;
 	font-style:oblique;
 	box-shadow: 10px 10px 5px #7a7777;
-	border-radius: 1rem;
+	border-radius: 1em;
 }
 
 
 .about-me-info {
 	width: 100%;
-	margin-bottom: 1rem;
-	margin-top: 1rem;
+	margin-bottom: 1em;
+	margin-top: 1em;
 }
 
 .about-me-para {
-	font-size: 2rem;
+	font-size: 2em;
 }
 
 .wrapper {
 	float: right;
 	z-index: 100px;
-	top: 0rem;
+	top: 0em;
 }
 
 .container {
 	position: fixed;
 	top: 0px;
-	right: -1rem;
+	right: -1em;
 }
 
 button {
-	margin-bottom: 1rem;
+	margin-bottom: 0.7em;
   border: none;
   outline: none;
   background-color: black;
@@ -102,5 +102,5 @@ button {
   position: relative;
   -webkit-border-radius: 4px;
   border-radius: 4px;
-  font-size: 1.7rem;
+  font-size: 1.7em;
 }
