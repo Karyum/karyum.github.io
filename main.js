@@ -12,3 +12,19 @@ document.querySelector(".image-container").innerHTML=build;
 // repeat this after a puse of 2000ms (2sec).
 setTimeout('nextPic()',5000)
 }
+
+const homeButton = document.getElementById('home-button');
+const aboutButton = document.getElementById('about-button');
+const contactButton = document.getElementById('contact-button');
+
+homeButton.addEventListener('click', function() {
+  window.scrollTo(0, 0);
+});
+
+aboutButton.addEventListener('click', function() {
+  window.scrollTo(0, 750);
+});
+
+contactButton.addEventListener('click', function() {
+  window.scrollTo(0, 1000);
+});
