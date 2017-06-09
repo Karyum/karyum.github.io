@@ -28,3 +28,10 @@ aboutButton.addEventListener('click', function() {
 contactButton.addEventListener('click', function() {
   window.scrollTo(0, 1000);
 });
+
+const sendButton = document.querySelector('.button-success');
+const thankyouMessage = document.getElementById('thankyou_message');
+
+sendButton.addEventListener('click', function() {
+  thankyouMessage.style.display = 'block';
+});

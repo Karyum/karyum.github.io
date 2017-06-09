@@ -130,3 +130,41 @@ button {
 	margin-bottom: 50px;
 	margin-top: 30px;
 }
+
+#gform {
+	width: 40%;
+	display: inline-block;
+}
+
+#name {
+	width: 100%;
+}
+
+#email {
+	width: 100%;
+}
+
+.name-label {
+	font-size: 24px;
+}
+
+.message-label {
+	font-size: 24px;
+}
+
+.email-label {
+	font-size: 24px;
+}
+
+.h2-div {
+	font-size: 30px;
+}
+
+#thankyou_message {
+	margin-bottom: 30px;
+}
+
+.button-xlarge {
+	margin-bottom: 30px;
+	width: 100%;
+}
