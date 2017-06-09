@@ -22,11 +22,11 @@ homeButton.addEventListener('click', function() {
 });
 
 aboutButton.addEventListener('click', function() {
-  window.scrollTo(0, 750);
+  window.scrollTo(0, 700);
 });
 
 contactButton.addEventListener('click', function() {
-  window.scrollTo(0, 1000);
+  window.scrollTo(0, 2000);
 });
 
 const sendButton = document.querySelector('.button-success');
