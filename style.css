@@ -169,3 +169,38 @@ button {
 	margin-bottom: 30px;
 	width: 100%;
 }
+
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: lightblue;
+    }
+
+		.container {
+			width: 100%;
+			left: 0px;
+			height: 45px;
+		}
+
+		img {
+			height: 400px
+		}
+
+		.web-title {
+			position: absolute;
+			top: 52%;
+		}
+
+		.about-me-para {
+			margin-top: 12px;
+			font-size: 20px;
+		}
+
+		#gform {
+			width: 90%;
+		}
+
+		#name {
+			width: 100%;
+		}
+}
