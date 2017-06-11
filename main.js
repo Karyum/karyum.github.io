@@ -34,7 +34,6 @@ const thankyouMessage = document.getElementById('thankyou_message');
 const gForm = document.getElementById('gform');
 
 sendButton.addEventListener('click', function(event) {
-  event.preventDefault();
   gForm.style.display = 'none'
   thankyouMessage.style.display = 'block';
 });
