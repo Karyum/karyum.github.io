@@ -188,7 +188,7 @@ button {
 
 		.web-title {
 			position: absolute;
-			top: 52%;
+			top: 55%;
 		}
 
 		.about-me-para {
@@ -202,5 +202,18 @@ button {
 
 		#name {
 			width: 100%;
+			margin-top: 20px;
+		}
+
+		#email {
+			margin-top: 10px;
+		}
+
+		#message {
+			margin-top: 20px;
+		}
+
+		.button-xlarge {
+			height: 50px;
 		}
 }
