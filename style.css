@@ -188,7 +188,10 @@ button {
 
 		.web-title {
 			position: absolute;
-			top: 55%;
+			top: 63%;
+			font-size: 20px;
+			right: 10px;
+			left: 10px
 		}
 
 		.about-me-para {
@@ -197,7 +200,7 @@ button {
 		}
 
 		#gform {
-			width: 90%;
+			width: 100%;
 		}
 
 		#name {
