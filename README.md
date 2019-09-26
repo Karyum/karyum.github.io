@@ -1,4 +1,4 @@
 # karyum.github.io
 
-#### nothing to see here just a WIP
+#### nothing to see here
 
